@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#updated char diver
 case "$1" in 
     start)
         echo "LOADING MODULES LDD"
